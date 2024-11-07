@@ -14,7 +14,7 @@ import re
 from datetime import datetime
 
 # Set OpenAI API Key (replace 'YOUR_API_KEY' with your actual key)
-os.environ["OPENAI_API_KEY"] = "sk-proj-mJ52zorMqyDCgMJMNQ29T3BlbkFJFT1vE8c91h4FQ8W3IJEJ"
+os.environ["OPENAI_API_KEY"] = "YOUR_OPENAI_KEY"
 
 # Custom CSS for styling
 st.markdown("""
