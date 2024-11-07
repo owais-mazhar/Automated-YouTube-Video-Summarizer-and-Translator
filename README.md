@@ -78,12 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google for the Text-to-Speech (gTTS) API and Translator.
 - Streamlit for the web app framework.
 ```
-
-### Key Sections Explained:
-- **Project Description**: Overview of what the app does.
-- **Features**: A list of key features of the project.
-- **Installation**: Step-by-step guide to set up the project locally.
-- **How it Works**: Explanation of the user flow and the technology stack.
-- **Example**: A simple use case showing the input and expected output.
-- **Notes**: Special requirements or considerations for running the app.
-- **License and Acknowledgments**: Licensing information and thanks to the tools/APIs used in the project.
