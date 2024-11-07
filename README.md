@@ -77,4 +77,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenAI for the GPT-3 model.
 - Google for the Text-to-Speech (gTTS) API and Translator.
 - Streamlit for the web app framework.
-```
