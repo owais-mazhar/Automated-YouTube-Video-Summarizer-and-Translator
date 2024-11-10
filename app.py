@@ -92,9 +92,8 @@ if st.button("Process Video", key="process_video"):
             # Prompt template for summarization
             combine_prompt_template = """
             You will be given points and any important details of a text in bullet points.
-            Your goal is to give a final summary of the main topics and findings
-            which will be useful and related to Data Engineer
-            to grasp what was done during the work.
+            Your goal is to provide a final summary of the main topics and key findings.
+            The summary should be clear, concise, and informative to help grasp the main content of the video.
             ```{text}```
             FINAL SUMMARY:
             """
